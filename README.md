@@ -8,5 +8,5 @@ Pedro Almeida\
 \
 **Oriented by:**
 Professor André Falcão\
-Professor Nuno Garcia\
+Professor Nuno Garcia
 
